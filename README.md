@@ -1,2 +1,2 @@
 # Radio-galaxy-project
-This is the code to process VLASS and NVSS data as part of my undergraduate thesis.
+This contains the code to process VLASS and NVSS data and the results as part of my undergraduate thesis.
